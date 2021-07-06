@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hello, world 👋
+
+I'm Federico, an EE student @ Polytechnic University of Turin and I'm interested in analog circuits, ML and IT in general.
+
+My main contributions are:
+- The official student app for my former High school: [mySobrero](https://github.com/is-sobrero/mySobrero)
+
+You can reach me out at federico.runco@gmail.com or info@federunco.com
+
+
+![Federico's github stats](https://github-readme-stats.vercel.app/api?username=federunco&show_icons=true)
 
 <!--
 **federunco/federunco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
