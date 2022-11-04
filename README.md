@@ -1,6 +1,7 @@
 ## Hello, world 👋
 
-I'm Federico, an EE student @ Polytechnic University of Turin and I'm interested in analog circuits, ML and IT in general.
+I'm Federico, an EE student @ Polytechnic University of Turin and I'm interested in microelectronics, ML and IT in general.
+My biggest work, EyesDrive, is available ![here](developers.eyesdrive.com)
 
 My main contributions are:
 - The official student app for my former High school: [mySobrero](https://github.com/is-sobrero/mySobrero)
