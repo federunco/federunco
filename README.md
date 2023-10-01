@@ -4,7 +4,6 @@ I'm Federico, an Electronic Engineering student at [Politecnico di Torino](http
 
 Project I'm into / had contributed to:
 - A novel Electrooculography-based Brain-Computer Interface: [EyesDrive](https://developers.eyesdrive.com)
-- Polito Electron Devices lab files (for both PADRE and ATLAS): [11APMNX Assignments](https://github.com/federunco/11APMNX_lab_assignments)
 - The official student app of my former High school: [mySobrero](https://github.com/is-sobrero/mySobrero)
 
 You can reach me out at federico.runco@gmail.com or info@federunco.com
