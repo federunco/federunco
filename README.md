@@ -1,6 +1,6 @@
 ## Hello, world 👋
 
-I'm Federico, an Electronic Engineering student at [Politecnico di Torino](https://www.polito.it). My current interests are microelectronics, Machine Learning and Brain-Computer Interfaces.
+I'm Federico, currently attending a MSc in Microelectronics Engineering at [Politecnico di Torino](https://www.polito.it). My current interests are microelectronics, Machine Learning and Brain-Computer Interfaces.
 
 Project I'm into / had contributed to:
 - Running Quartus on Apple Silicon: [Gist File](https://gist.github.com/federunco/f2bde2e25342c6284b68ce4ecf305e5d)
