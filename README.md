@@ -3,7 +3,7 @@
 I'm Federico, an Electronic Engineering student at [Politecnico di Torino](https://www.polito.it). My current interests are microelectronics, Machine Learning and Brain-Computer Interfaces.
 
 Project I'm into / had contributed to:
-- Running Quartus on Apple Silicon: [Gist File]([https://developers.eyesdrive.com](https://gist.github.com/federunco/f2bde2e25342c6284b68ce4ecf305e5d))
+- Running Quartus on Apple Silicon: [Gist File](https://gist.github.com/federunco/f2bde2e25342c6284b68ce4ecf305e5d)
 - A novel Electrooculography-based Brain-Computer Interface: [EyesDrive](https://developers.eyesdrive.com)
 - The official student app of my former High school: [mySobrero](https://github.com/is-sobrero/mySobrero)
 
