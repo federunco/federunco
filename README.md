@@ -1,4 +1,13 @@
 ## Hello 👋
+
+I'm Federico, an Electronic Engineering student at Politecnico di Torino, pursuing the Microelectronics track.
+
+Project I'm into / had contributed to:
+- Accellerating Keccak on CVA6 Processor: [Tightly-Coupled Integration](https://github.com/vlsi-lab/cva6/tree/keccak_tightly), [Loosely-Coupled Integration](https://github.com/vlsi-lab/cva6/tree/keccak_loosely)
+- Running Quartus on Apple Silicon: [Gist File](https://gist.github.com/federunco/f2bde2e25342c6284b68ce4ecf305e5d)
+
+
+You can reach me out at federico.runco@gmail.com
 <!--
 **federunco/federunco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
