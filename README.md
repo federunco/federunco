@@ -3,6 +3,7 @@
 I'm Federico, an Electronic Engineering student at Politecnico di Torino, pursuing the Microelectronics track.
 
 Project I'm into / had contributed to:
+- A Simple SoC implementing the CVA6 core: [Repo](https://github.com/federunco/cva6_barebones)
 - Accellerating Keccak on CVA6 Processor: [Tightly-Coupled Integration](https://github.com/vlsi-lab/cva6/tree/keccak_tightly), [Loosely-Coupled Integration](https://github.com/vlsi-lab/cva6/tree/keccak_loosely)
 - Running Quartus on Apple Silicon: [Gist File](https://gist.github.com/federunco/f2bde2e25342c6284b68ce4ecf305e5d)
 
